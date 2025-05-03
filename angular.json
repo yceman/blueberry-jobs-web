@@ -88,6 +88,11 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "public/assets/images",
+                "output": "/assets"
               }
             ],
             "styles": [
